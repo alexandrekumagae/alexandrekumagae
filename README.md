@@ -6,6 +6,6 @@ Web Developer at [@movedigital](https://github.com/movedigital).
 [![Gmail Badge](https://img.shields.io/badge/-alexandre@movedigital.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre@movedigital.com.br)](mailto:alexandre@movedigital.com.br)
 
 
-Passionate about learning web technologies.
+Passionate about learning web technologies. Doing my best in everything, always. Done is better than perfect. Facing the projects with a lot of organization and seriousness.
 
 Web Developer with experience in developing all kinds of Web Projects, such as Sites, E-commerce, Web Applications, Web Systems for small/medium companies, etc.
