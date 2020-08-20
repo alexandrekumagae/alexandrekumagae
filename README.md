@@ -8,4 +8,4 @@ Web Developer at [@movedigital](https://github.com/movedigital).
 
 Passionate about learning web technologies. Doing my best in everything, always. Done is better than perfect. Facing the projects with a lot of organization and seriousness.
 
-Web Developer with experience in developing all kinds of Web Projects, such as Sites, E-commerce, Web Applications, Web Systems for small/medium companies, etc.
+Developer with experience in developing all kinds of Web Projects, such as Sites, E-commerce, Web Applications, Web Systems, APIs, etc.
