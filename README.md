@@ -1,11 +1,9 @@
-# Alexandre Kumagae 
+### Hi, I'm Alexandre Kumagae! 👋
 
-Web Developer at [@movedigital](https://github.com/movedigital).
+💻 Web Developer at [@movedigital](https://github.com/movedigital) <br>
+🇧🇷 Living in São José dos Campos, Brazil <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Kumagae-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrekumagae/)](https://www.linkedin.com/in/alexandrekumagae/) 
-[![Gmail Badge](https://img.shields.io/badge/-alexandre@movedigital.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre@movedigital.com.br)](mailto:alexandre@movedigital.com.br)
+### You can find me on
 
-
-Passionate about learning web technologies. Doing my best in everything, always. Done is better than perfect. Facing the projects with a lot of organization and seriousness.
-
-Developer with experience in developing all kinds of Web Projects, such as Sites, E-commerce, Web Applications, Web Systems, APIs, etc.
+💼 [LinkedIn](https://www.linkedin.com/in/alexandrekumagae) <br>
+📩 [Email](mailto:alexandre@movedigital.com.br) <br>
