@@ -1,7 +1,6 @@
 ### Hi, I'm Alexandre! 👋
 
-💻 Web Developer at [@movedigital](https://github.com/movedigital) <br>
-🇧🇷 Living in São José dos Campos, Brazil <br>
+💻 Web Developer at [@movedigital](https://github.com/movedigital)
 
 ### You can find me on
 
