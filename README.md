@@ -1,12 +1,5 @@
 # Alexandre Kumagae 
 
-Olá, sou Alexandre 👋, um Desenvolvedor e Empreendedor com mais de 10 anos de experiência. Ao longo de minha carreira, desenvolvi e liderei uma ampla gama de projetos, incluindo Sites Institucionais, Portais de Conteúdo, E-commerce, Aplicações Web, Sistemas Web e SaaS (Software como Serviço). 
+Olá! Sou Alexandre Kumagae, Líder de Tecnologia, Sócio e Desenvolvedor Full Stack na Move Digital, com uma sólida experiência de mais de 10 anos em desenvolvimento web. Minha expertise se estende por HTML, CSS, JavaScript, React.js, Node.js, MySQL, PHP e WordPress. No comando técnico da Move Digital, eu lidero projetos que priorizam a usabilidade e a experiência do usuário, focando em entregar soluções digitais que impulsionam o crescimento e o sucesso empresarial.
 
-Adicionalmente, trabalhei em MVPs (Produtos Mínimos Viáveis) e também participei na criação e no crescimento de diversas iniciativas empreendedoras:
-
-- **B4U:** Uma startup que funcionava como um marketplace de lançamentos imobiliários;
-- **MoveMenu:** um SaaS no ramo de alimentação;
-- **DestravaMKT (https://destravamarketing.com.br):** um curso de marketing digital voltado a pequenos empresários;
-- **Hospede Agora (https://hospedeagora.com.br):** um marketplace de turismo.
-
-Essas experiências não só aprofundaram meu conhecimento técnico, mas também me deram uma sólida compreensão dos aspectos empresariais, proporcionando uma visão de negócios abrangente que se estende muito além da programação. Compreendendo os dois lados da moeda, tanto a perspectiva do cliente quanto a operacional da empresa, acredito ter um valor único a agregar aos projetos, equilibrando habilidades técnicas com insights estratégicos de negócios.
+Sou movido pela inovação e pelo empreendedorismo, tendo contribuído para o desenvolvimento de plataformas significativas como MoveMenu, B4U e Hospede Agora. Essas experiências ampliaram minhas habilidades em gestão, comunicação e estratégia, reforçando meu compromisso com a criação de valor para clientes e comunidades. Estou sempre em busca de novas colaborações que desafiem o convencional e promovam o avanço tecnológico. Se você tem ideias ou projetos em mente, vamos conectar e explorar o potencial juntos.
